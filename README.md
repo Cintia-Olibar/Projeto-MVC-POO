@@ -25,10 +25,11 @@ ________________________________________________________________________________
 ## 📂 Estrutura do Projeto
 
 src/
-── Controller/ # Lógica de controle
-── Model/ # Classes e entidades do domínio
-── DAO/ # Acesso e manipulação de dados
-── View/ # Camada de visualização
+├── Controller/ # Lógica de controle
+├── Model/ # Classes e entidades do domínio
+├── DAO/ # Acesso e manipulação de dados
+└── View/ # Camada de visualização
+
 
 _________________________________________________________________________________________________________________________
 
