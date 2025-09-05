@@ -15,9 +15,8 @@ ________________________________________________________________________________
 
 ## Tecnologias Utilizadas
 
-- **Java** (JDK 17 ou superior recomendado)  
+- **Java**
 - **IntelliJ IDEA** como IDE principal  
-- **Git & GitHub** para versionamento e colaboração  
 _________________________________________________________________________________________________________________________
 
 ## Estrutura do Projeto
